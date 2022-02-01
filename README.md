@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EvangelosD
+- 👀 I’m interested in joining Data industry
+- 🌱 I’m currently learning Python, SQL, R etc. 
